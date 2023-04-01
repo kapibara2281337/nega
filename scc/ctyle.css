@@ -19,6 +19,7 @@ justify-content: space-between;
 
 
 .link{
+  position: absolute;
     font-family: 'Mulish';
     font-style: normal;
     position: absolute;
@@ -41,6 +42,7 @@ border-radius: nullpx;
 }
 
 .link2 {
+  position: absolute;
     font-family: 'Mulish';
     font-style: normal;
     position: absolute;
@@ -60,6 +62,7 @@ text-decoration: none;
 color: black;
 }
 .link4{
+  position: absolute;
     font-family: 'Mulish';
     font-style: normal;
     position: absolute;
@@ -118,5 +121,31 @@ width: 180px;
 left: 1140px;
 top: 80px;
 border-radius: 4px;
+}
+  .box4
+{
+  position:static;
+  height: 576px;
+width: 384px;
+left: 120px;
+top: 80px;
+border-radius: 4px;
 
-  }
+}
+.box5{
+  position:relative;
+  height: 384px;
+width: 384px;
+left: 710px;
+top: 0px;
+border-radius: 4px;
+
+}
+.txt2{
+  height: 54px;
+width: 302px;
+left: 0px;
+top: 113px;
+border-radius: nullpx;
+
+}
